@@ -2,8 +2,6 @@
 
 # HoundOS - Autonomous Agent Framework (Entire Opensource coming soon ...)
 
-![HoundOS Logo](https://via.placeholder.com/150x150?text=HoundOS)
-
 HoundOS is a powerful framework for creating and managing autonomous AI agents. Agents can execute various tools, maintain memory, and provide intelligent responses based on defined personalities and goals.
 
 ## Table of Contents
